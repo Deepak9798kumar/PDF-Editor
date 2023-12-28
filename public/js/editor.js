@@ -72,7 +72,3 @@ function addPdfToList(name, url) {
 	// Add the list item to the list
 	document.getElementById("pdf-list").appendChild(li);
 }
-
-
-
-// █▀█ █▀▄ █▀▀   █▀▄▀█ █▀▀ █▀█ █▀▀ █▀▀ █▀█   ░░█ ▄▀█ █░█ ▄▀█ █▀▀ █▀█ █ █▀█ ▀█▀   █▀▀ █▀█ █▀▄ █▀▀   █▀▀ █▄░█ █▀▄

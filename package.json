@@ -1,13 +1,13 @@
 {
   "name": "pdf-editor",
   "version": "1.0.0",
-  "description": "PDF Editor ",
+  "description": "PDF Editor",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Md YYasin",
+  "author": "Deepak",
   "license": "ISC",
   "dependencies": {
     "@pdf-lib/fontkit": "^1.1.1",
@@ -37,5 +37,8 @@
     "uuid": "^9.0.0",
     "xhr2": "^0.2.1",
     "zlib": "^1.0.5"
+  },
+  "devDependencies": {
+    "electron": "^28.0.0"
   }
 }

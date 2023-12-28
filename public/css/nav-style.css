@@ -50,10 +50,11 @@ nav > .nav-container {
 }
 nav .brand {
 	margin-right: auto;
-	font-size: 24px;
+	font-size: 22px;
 	font-weight: 700;
+	letter-spacing: 1px;
 	font-family: var(--oswald);
-	color: #000;
+	color: #FD6766;
 	text-transform: uppercase;
 }
 
